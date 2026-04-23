@@ -22,9 +22,11 @@ int main() {
     scanf("%d", &nota_1);
     printf("Digite a nota 2");
     scanf("%d", &nota_2);
-    prinft("notas salvas")
+    prinft("notas salvas");
     break;
-    case 2: ;break;
+    case 2:
+    media = (nota_1 + nota_2)/2 ;break;
+    printf("Sua media sera : %d", media);
     case 3: ;break;
     case 4: ;break;
     case 5: ;break;
