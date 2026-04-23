@@ -2,7 +2,7 @@
 
 int main() {
     int opcao;
-
+    
     switch (opcao)
     {
     case 1: ;break;
