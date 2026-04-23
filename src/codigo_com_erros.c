@@ -1,7 +1,7 @@
 #include <stdio.h> // Alterando de (""), para (<>)
 
 int main() {
-    float nota1, nota2, media;
+    float nota1, nota2, media; // Adicionando ; no final
 
     printf("Digite a primeira nota: ");
     scanf("%f", &nota1);
